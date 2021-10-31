@@ -13,7 +13,7 @@ Website accessibility is vital. It enables users with various disabilities to en
 
 ## Getting to Work
 
-Code was refactored. Proper indentations were applied, semantic elements replaced unnecessary div’s, descriptions were added to images, condensed selectors and consolidated properties. Commented on both the HTML and CSS files, describing each section, making the code easier to read. 
+Code was refactored. Applied proper indentations, replaced unnecessary div's with semantic elements, added descriptions to images, condensed selectors and consolidated properties. Additionally, commented on both the HTML and CSS files, describing each section, making the code easier to read. 
 
 ## Take a Look
 
