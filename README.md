@@ -20,3 +20,7 @@ Code was refactored. Applied proper indentations, replaced unnecessary div's wit
 GitHub Repository: https://github.com/jsamborski310/horiseon-code-refactor
 
 GitHub Pages: https://jsamborski310.github.io/horiseon-code-refactor/
+
+## The Preview
+
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](/horiseon-landing-page.png)
